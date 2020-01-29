@@ -8,8 +8,7 @@ import h5py
     - No of neurons are specified by layers_dims variable
     - Activations are as follows:
         [Relu] -> [Relu] -> [Relu]-> [Sigmoid] 
-    - The responsibility of the NN is to classify cat images
-    - This is done as a part of Prof Andrew Ng's Neural Network course
+    - The responsibility of the NN is to classify cat imagee
 """
 
 
