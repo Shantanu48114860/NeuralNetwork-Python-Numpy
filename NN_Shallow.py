@@ -8,7 +8,6 @@ import h5py
     - Hidden layer activation function - tanh
     - Output layer activation function - sigmoid
     - The responsibility of the NN is to classify cat images
-    - This is done as a part of Prof Andrew Ng's Neural Network course
 """
 
 
